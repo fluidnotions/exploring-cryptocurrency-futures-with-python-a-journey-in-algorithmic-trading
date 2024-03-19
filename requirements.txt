@@ -1,0 +1,14 @@
+pytest
+setuptools
+rx
+binance-futures-connector
+pandas
+numpy
+ta
+scipy
+humanize
+backtesting
+feather-format
+# src/helpers/fiat_convert.py
+pycoingecko==3.1.0
+cachetools

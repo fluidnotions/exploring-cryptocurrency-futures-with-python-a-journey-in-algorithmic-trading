@@ -1,0 +1,10 @@
+**/**/__pycache__/
+**/__pycache__/
+.pytest_cache
+notebooks/dataset.csv
+rig.egg-info
+.vscode
+resources/symbol_windows/**
+notebooks/tmp-data/**
+resources/logs/**
+temp/**
